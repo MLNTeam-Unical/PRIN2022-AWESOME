@@ -1,25 +1,20 @@
-# PRIN2022-AWESOME
+# PRIN-2022 AWESOME: Analysis framework for WEb3 SOcial MEdia
 
-## 📌 Overview
+## 📌 Overview
 
-This repository serves as the central hub for all resources developed by the UNICAL research team within the context of **Project PRIN 2022 AWESOME**. It provides organized access to datasets, codebases, models, publications, and software tools produced throughout the project lifecycle. 
+This repository serves as the central hub for all resources developed by the UNICAL research team within the context of Project **PRIN 2022 *AWESOME: Analysis framework for WEb3 SOcial MEdia* ERC PE6,  project number 2022MAWEZA, CUP  I53D2300368000**. It provides organized access to datasets, codebases, models, publications, and software tools produced throughout the project lifecycle. 
 
 
-## 🚀 Key Contributions
+## 🚀 Key Contributions
 
-This hub includes resources spanning multiple domains, including the ones related to:
+This hub includes resources spanning multiple domains, which include but are not limited to:
 
-Graph representation learning and optimization methods
-
-Dynamic and heterogeneous network embedding
-
-Multilayer link prediction (e.g., Mixture-of-Experts frameworks)
-
-Deep learning approaches, including Vision Transformers and Large Language Models
-
-Analytics of NFTs and decentralized social networks
-
-Studies on polarization and interaction dynamics in online platforms
+- Data and Analytics of NFTs and decentralized social networks 
+- Graph representation learning and optimization methods
+- Dynamic and heterogeneous network embedding
+- Multilayer link prediction (e.g., Mixture-of-Experts frameworks)
+- Deep learning approaches, including Vision Transformers and Large Language Models 
+- Studies on polarization and interaction dynamics in online platforms
 
 ## 📖 Publications
 
@@ -87,6 +82,6 @@ Repository: https://github.com/MLNTeam-Unical/MoE-ML-LinkPrediction
 
 Each resource may be released under a specific license. Please refer to the corresponding publications and repositories for licensing details.
 
-## 📬 Contact
+## 📬 Contact
 
 For questions or collaborations, please contact the [MLN Team @ UNICAL](https://mlnteam-unical.github.io/contact/).
