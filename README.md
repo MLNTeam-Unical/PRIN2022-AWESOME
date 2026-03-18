@@ -39,7 +39,7 @@ DOI: https://doi.org/10.1145/3614419.364401
 **Visually Wired NFTs: Exploring the Role of Inspiration in Non-Fungible Tokens**
 *ACM Transactions on the  Web*, 2025. 
 DOI: https://doi.org/10.1145/3703411
-Repository: https://github.com/MLNTeam-Unical/PRIN2022-AWESOME
+Repository: https://github.com/MLNTeam-Unical/Visually-Wired-NFTs
 
 **Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance**
 *Online Social Networks and Media*, 2025. 
